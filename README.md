@@ -1,4 +1,4 @@
-<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit</a></h1>
+<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit Ranjan</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -59,7 +59,7 @@
 
 [![GitHub Follow](https://img.shields.io/github/followers/rohit192ranjan?label=Follow&style=social)](https://github.com/rohit192ranjan)
 [![Linkedin: rohit](https://img.shields.io/badge/-rohit192ranjan-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/rohit192ranjan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/rohit192ranjan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/_rohitranjan_)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rohit192ranjan/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohit192)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https://rohitranjan.netlify.app/)
