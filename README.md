@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently pursuing **B.Tech.** in **Computer Science Engineering** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**\
 🌱 &nbsp;I'm on track for learning more about **Data Structures and algorithms**.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
-📫 &nbsp;You can shoot me an email at rohit192ranjan@gmail.com! I'll try to respond as soon as I can.\
+📫 &nbsp;You can shoot me an email at rohit192ranjan@gmail.com! I'll try to respond as soon as I can.
  
  <hr>
  
