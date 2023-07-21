@@ -58,7 +58,7 @@
 ### 🤝🏻 Connect with Me
 
 [![GitHub Follow](https://img.shields.io/github/followers/rohit192ranjan?label=Follow&style=social)](https://github.com/rohit192ranjan)
-[![Linkedin: rohit](https://img.shields.io/badge/-rohit192ranjan-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/rohit192ranjan/)
+[![Linkedin: rohit](https://img.shields.io/badge/-rohit192ranjan-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit192ranjan/)](https://www.linkedin.com/in/rohit192ranjan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/_rohitranjan_)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rohit192ranjan/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohit192)
