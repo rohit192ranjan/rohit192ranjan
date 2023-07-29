@@ -57,12 +57,18 @@
 
 ### 🤝🏻 Connect with Me
 
+![Visitors](https://komarev.com/ghpvc/?username=your-github-rohit192ranjan&color=blue&style=badge&label=Visitors)
 [![GitHub Follow](https://img.shields.io/github/followers/rohit192ranjan?label=Follow&style=social)](https://github.com/rohit192ranjan)
 [![Linkedin: rohit](https://img.shields.io/badge/-rohit192ranjan-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit192ranjan/)](https://www.linkedin.com/in/rohit192ranjan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/_rohitranjan_)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rohit192ranjan/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohit192)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https://rohitranjan.netlify.app/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-5B4638?style=badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mr.rohitranjan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8062D6?style=badge&logo=About.me&logoColor=white)](https://rohitranjan.netlify.app/)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rohit192ranjan&show_icons=true&locale=en" alt="rohit192ranjan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit192ranjan&" alt="rohit192ranjan" /></p>
 
 -----
 ❤️ Thanks for Visiting my Github Account ❤️
