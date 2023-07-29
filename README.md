@@ -67,7 +67,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8062D6?style=badge&logo=About.me&logoColor=white)](https://rohitranjan.netlify.app/)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit192ranjan&show_icons=true&locale=en" alt="rohit192ranjan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit192ranjan&show_icons=true&locale=en" alt="rohit192ranjan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit192ranjan&" alt="rohit192ranjan" /></p>
 
 -----
