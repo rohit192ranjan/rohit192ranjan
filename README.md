@@ -1,4 +1,4 @@
-<h1 >Hi, I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit Ranjan</a></h1>
+<h1 >Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35"/> I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit Ranjan</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -69,6 +69,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit192ranjan&show_icons=true&locale=en" alt="rohit192ranjan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit192ranjan&" alt="rohit192ranjan" /></p>
+
+[![@rohit192ranjan's Holopin badges](https://holopin.me/rohit192ranjan)](https://holopin.io/@rohit192ranjan)
 
 -----
 ❤️ Thanks for Visiting my Github Account ❤️
