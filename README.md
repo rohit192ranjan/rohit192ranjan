@@ -1,11 +1,12 @@
-<h1 >Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35"/> I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit Ranjan</a></h1>
+<h1 >Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35"/> I'm <a href='https://rohitranjan.netlify.app/' target='_blank'>Rohit</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing **B.Tech.** in **Computer Science Engineering** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**\
-🌱 &nbsp;I'm on track for learning more about **Data Structures and algorithms**.\
-✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
+🚀 &nbsp;Software Engineer & Tech Builder\
+💡 &nbsp;I'm a passionate developer focused on building clean, efficient code and exploring the future of tech.\
+🎓 &nbsp;**B.Tech.** in **Computer Science Engineering** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**\
+🌱 &nbsp;Currently diving deep into **software development** and building **scalable applications**.\
+✍️ &nbsp;When I'm not staring at a IDE, you'll probably find me hitting a heavy lift at the gym or riding bike.\
 📫 &nbsp;You can shoot me an email at rohit192ranjan@gmail.com! I'll try to respond as soon as I can.
  
  <hr>
